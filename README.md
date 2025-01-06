@@ -1,4 +1,4 @@
-# Personal - Chat Web App (front) by React
+# Personal - Simple Chat Web App (front) by React
 
 Make sure back-end is up and running for authentication, sending and recieving messages.
 
