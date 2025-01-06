@@ -1,13 +1,5 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+Personal - Chat Web App (front) by React
 
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+Make sure back-end is up and running for authentication, sending and recieving messages.
+
+Nodejs Back-end project url - 
