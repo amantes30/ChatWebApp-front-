@@ -1,0 +1,13 @@
+{
+  "short_name": "Chat App",
+  "name": "Let me talk",
+  "icons": [
+    {
+      "src": "https://git.amantes30.com/SVG/logo(new).svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
